@@ -1,3 +1,13 @@
+.main-header {
+    padding: 10px 90px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.16);
+}
+
+.text-logo {
+    font-size: 44px;
+    font-weight: 700;
+    color: #3a416f;
+}
 
 .single-blog {
     margin-bottom: 30px;
