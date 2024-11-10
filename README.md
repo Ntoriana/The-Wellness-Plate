@@ -1,3 +1,15 @@
+# The Wellness Plate
+
+! [The Wellness Plate shown on a variety of screen sizes]
+
+Visit the deployed site:
+
+
+
+
+
+
+
 ## attribution 
 banana bread image 
 https://unsplash.com/photos/bread-beside-butter-and-milk-qKxELxIH5t8

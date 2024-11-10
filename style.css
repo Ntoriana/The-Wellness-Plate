@@ -9,6 +9,18 @@
     color: #3a416f;
 }
 
+footer {
+    padding: 60px;
+    background-image: linear-gradient(310deg, #476122, #94bb5d);
+    /* background-color: #739e37; */
+    color: #fff;
+}
+
+footer p {
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
 
 .page-header {
     padding: 0;
@@ -69,3 +81,4 @@
     width: 100%;
     object-fit: cover;
 }
+
